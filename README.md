@@ -1,11 +1,11 @@
-# flutter 공부
+# flutter practice
 
-flutter 로 앱을 만들어 보자.
+personal practice Flutter to build an app.
 
-nomad coder - Flutter 로 웹툰 앱 만들기
+step1. nomad coder - build 3 apps with Flutter
 > https://nomadcoders.co/flutter-for-beginners<br>
-> 시작 : 2023-04-<br>
-> 종료 : <br>
+> begin : 2023-04-06<br>
+> end : <br>
 
 <br>
 
