@@ -2,7 +2,7 @@
 
 ## 3_1_1 Widget Inspector 구성 요소
 
-![image](https://user-images.githubusercontent.com/46735998/231492851-f572c4ef-8563-46fd-9b3a-c7d1826aa115.png)
+![image](https://user-images.githubusercontent.com/46735998/231494814-e2ff6562-ed75-4701-a91f-b8059b030fa8.png)
 
 ### 3_1_1_1 메인 화면
 
