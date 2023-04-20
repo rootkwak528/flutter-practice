@@ -50,3 +50,9 @@ Extension 추천 : **Error Lens**<br><br>
 # 3_4 Code Actions
 
 VSCode 에서 제공하는 Code Actions (⌘.) 기능을 사용하면, 손쉽게 위젯을 감싸거나, extract 할 수 있다.
+
+![스크린샷 2023-04-20 오후 11 21 39](https://user-images.githubusercontent.com/46735998/233412203-fef87491-bcb8-419d-8de7-3b0271c9e32b.png)
+<br><br>
+
+
+**Fin.**
