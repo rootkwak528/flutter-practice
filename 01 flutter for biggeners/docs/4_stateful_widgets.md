@@ -2,6 +2,11 @@
 
 StatefulWidget 에서 State 는 사실 그렇게 자주 사용하지 않는다.
 - 더 좋은 방법이 있는데, 그건 아마 나~~중 강의에서 (틱톡강의쯤?)
+
+6_6 에서 나왔다
+- 그것은 바로 `FutureBuilder`
+- `state` 가 자주 바뀌는 것이 아니라 한번 로딩할 때 사용하는 것이라면 `FutureBuilder` 로 충분해 보인다.
+
 <br><br>
 
 # 4_3 BuildContext
